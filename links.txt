@@ -1,0 +1,21 @@
+https://www.oracle.com/br/artificial-intelligence/what-is-ai/#:~:text=Em%20termos%20mais%20simples%2C%20a,base%20nas%20informa%C3%A7%C3%B5es%20que%20coletam.
+- IA está mais relacionada ao processo e a capacidade de pensamento superpoderoso e a análise de dados do que a qualquer formato ou função em particular
+
+
+https://www.ibm.com/br-pt/cloud/learn/neural-networks#:~:text=As%20redes%20neurais%20refletem%20o,machine%20learning%20e%20deep%20learning.
+- As redes neurais refletem o comportamento do cérebro humano, permitindo que programas de computador reconheçam padrões e resolvam problemas comuns nos campos de IA, machine learning e deep learning.
+
+
+https://www.ibm.com/br-pt/analytics/machine-learning
+- Machine Learning é uma tecnologia onde os computadores tem a capacidade de aprender de acordo com as respostas esperadas por meio associações de diferentes dados, os quais podem ser imagens, números e tudo que essa tecnologia possa identificar. Machine Learning é o termo em inglês para a tecnologia conhecida no Brasil como aprendizado de máquina.
+
+https://www.sas.com/pt_br/insights/analytics/deep-learning.html
+- Deep learning é um tipo de machine learning que treina computadores para realizar tarefas como seres humanos, o que inclui reconhecimento de fala, identificação de imagem e previsões. Em vez de organizar os dados para serem executados através de equações predefinidas, o deep learning configura parâmetros básicos sobre os dados e treina o computador para aprender sozinho através do reconhecimento padrões em várias camadas de processamento.
+
+
+https://iaexpert.academy/2020/10/13/deteccao-de-objetos-com-yolo-uma-abordagem-moderna/
+- YOLO é um método de detecção de objetos de passada única que utiliza uma rede neural convolucional como extrator de características.
+
+
+https://www.devmedia.com.br/exemplo/como-comecar-com-spring/73
+- O Spring é um framework Java criado com o objetivo de facilitar o desenvolvimento de aplicações, explorando, para isso, os conceitos de Inversão de Controle e Injeção de Dependências
