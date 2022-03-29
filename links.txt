@@ -19,3 +19,7 @@ https://iaexpert.academy/2020/10/13/deteccao-de-objetos-com-yolo-uma-abordagem-m
 
 https://www.devmedia.com.br/exemplo/como-comecar-com-spring/73
 - O Spring é um framework Java criado com o objetivo de facilitar o desenvolvimento de aplicações, explorando, para isso, os conceitos de Inversão de Controle e Injeção de Dependências
+
+
+
+https://github.com/ultralytics/yolov5
